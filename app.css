@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+}
+
+.header {
+    background-color: #001e56;
+    border-bottom-left-radius: 0%;
+}
+
+.nav_logo {
+    width: 250px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+
+.navlogo {
+    display: flex;
+}
+
+.nav_first {
+    display: flex;
+}
+
+.nav_left {
+    display: flex;
+    margin-left: 20%;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.stylea {
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    font-size: 1.3rem;
+    margin: 5px 5px;
+    border-radius: 6px;
+}
+
+.styleb {
+    font-size: 1.3rem;
+    margin: 5px 5px;
+    color: white;
+    background-color: #001e56;
+    border-radius: 6px;
+    ;
+}
+
+.stylec {
+    font-size: 1.3rem;
+    margin: 5px 5px;
+    border-radius: 6px;
+}
+
+.nav_second {
+    display: flex;
+    justify-content: flex-start;
+}
+
+li {
+    font-size: 15px;
+    color: white;
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+.mainimage {
+    width: 100%;
+
+}
+
+.hero {
+    border: 2px solid blue;
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.heroheading {
+    font-size: 2.5rem;
+    margin-top: 2%;
+}
+
+.hero-contentpara {
+    font-size: 20px;
+    margin-top: 3%;
+    margin-bottom: 15px;
+}
+
+.herocontentbut {
+    width: 23%;
+    margin: 7% 1%;
+    padding: 2% 2%;
+}
+
+.herocontentbutton1 button {
+    background-color: red;
+    color: white;
+}
+
+.herocontentbutton2 button {
+    border: 1px solid red;
+    color: red;
+    background-color: white;
+}
+
+.content {
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+
+.content h1 {
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+
+.content p {
+    margin-top: 3%;
+    margin-bottom: 3%;
+    font-size: 1.3rem;
+}
+
+.content h3 {
+    color: red;
+    font-weight: 800;
+    font-size: 1.2rem;
+}
+
+.allimages {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8%;
+
+}
+
+.allimages a {
+    font-size: 20px;
+    text-decoration: none;
+    color: black;
+}
+
+.img {
+    width: 120px;
+}
+
+.allimages a:hover {
+    color: red;
+}
+
+.heading {
+    margin-top: 5%;
+}
+
+.dabba1 {
+    border: 1px solid lightskyblue;
+    width: 280px;
+    text-align: center;
+}
+
+.dabba1 span {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+
+.dabba1 .p1 {
+    margin-top: 4%;
+    font-size: 0.9 rem;
+}
+
+.dabba {
+    display: flex;
+    /* justify-content: space-evenly; */
+
+}
+
+.ii {
+    width: 280px;
+}
+
+.dabba1 {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.para {
+    margin-top: 4%;
+    border: 2px solid blue;
+    background-color: lightgray;
+}
+
+.para span {
+    margin-top: 4%;
+    font-size: 2rem;
+    margin-bottom: 1%;
+    font-weight: 1000;
+
+}
+
+.para p {
+    margin-top: 4%;
+    font-size: 1.5rem;
+}
+
+.para button {
+    background-color: red;
+    color: white;
+    font-size: 2rem;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+.footer {
+    margin-top: 5%;
+    background-color: #001e56;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.footimg {
+    width: 200px;
+}
+
+.footer1 {
+    width: 200px;
+}
+
+.footerp1 {
+    margin-top: 2%;
+}
+
+.footer li a {
+    color: white;
+    font-size: 1.1rem;
+    /* margin-top: 2%; */
+    list-style: none;
+    text-decoration: none;
+}
+
+.footer li {
+    margin-top: 5%;
+
+}
+
+.footer2 {
+    background-color: #001e56;
+}
+
+.footer2 img {
+    margin-left: 50px;
+    margin-top: 20px;
+}
