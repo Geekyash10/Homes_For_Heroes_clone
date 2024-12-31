@@ -1,6 +1,6 @@
 # Home_For_heros Homepage Clone
 
-This project is a **Home_For_Heros* created using HTML and CSS. It aims to replicate the design and layout of the Relator website, focusing on learning and applying fundamental web development concepts.
+This project is a **Home_For_Heros** created using HTML and CSS. It aims to replicate the design and layout of the Relator website, focusing on learning and applying fundamental web development concepts.
 
 ## 🚀 About the Project
 
